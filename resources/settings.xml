@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="bt_mac_01" type="text" label="Bluetooth Address"/>
+</settings>
